@@ -1,4 +1,4 @@
-Calculadora de Idade Feito com JavaScript.
+Calculadora de Idade feita com JavaScript.
 
 Descrição:
 
