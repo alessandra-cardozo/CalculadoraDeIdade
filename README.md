@@ -1,5 +1,7 @@
-Calculadora de Idade Feito com JavaScript
-Descrição
+Calculadora de Idade Feito com JavaScript.
+
+Descrição:
+
 A Calculadora de Idade pega a data de nascimento como entrada e calcula o número de anos, meses e dias entre a data de nascimento e a data atual.
 
 Estrutura da Pasta do Projeto
